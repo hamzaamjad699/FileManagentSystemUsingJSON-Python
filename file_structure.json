@@ -1,0 +1,45 @@
+{
+    "meta_data": {
+        "storage": 310
+    },
+    "files": {
+        "1": {
+            "name": "b.txt",
+            "size": 119,
+            "chunks": {
+                "0": "Hi there Im very eci",
+                "1": "ted to see gujjar's ",
+                "2": "big muscles",
+                "3": "Hey there this a cra",
+                "4": "zy file managment sy",
+                "5": "stem that ou have ne",
+                "6": "ver seen"
+            }
+        },
+        "2": {
+            "name": "c.txt",
+            "size": 0,
+            "chunks": {}
+        },
+        "3": {
+            "name": "q.txt",
+            "size": 0,
+            "chunks": {}
+        },
+        "4": {
+            "name": "w.txt",
+            "size": 0,
+            "chunks": {}
+        },
+        "5": {
+            "name": "omar.txt",
+            "size": 70,
+            "chunks": {
+                "0": "fsaasgfergregerwbreg",
+                "1": "Hi there you need to",
+                "2": " work hard",
+                "3": "HI there how are you"
+            }
+        }
+    }
+}
